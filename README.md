@@ -1,6 +1,6 @@
 # worldle_score
 
-Worldle Solver
+Worldle Scorer
 
 Worldle: https://worldle.teuteuf.fr/
 
